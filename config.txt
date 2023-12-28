@@ -1,0 +1,2 @@
+<songs directory here (without brackets)>
+<zips directory here (without brackets)>
